@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "26BF9F4F-DDCC-4A64-8E52-51B1E0E88679",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ImageSearch.xcodeproj",
+        "identifier" : "1B2772502CD2C06E00596546",
+        "name" : "ImageSearchTests"
+      }
+    }
+  ],
+  "version" : 1
+}
